@@ -15,7 +15,7 @@ function App() {
   return (
     <div className="App">
       <TestElement/>
-      <PropAggregator name="LOLOL"/>
+      <PropAggregator name="LOL"/>
       <Clock/>
       <Clock2/>
       <Clock3/>
@@ -29,7 +29,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload. Hi
+          Edit <code>src/App.js</code> and save to reload. Hi Lol
         </p>
         <a
           className="App-link"
